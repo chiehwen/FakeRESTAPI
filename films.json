@@ -1,0 +1,47 @@
+{
+  "films": [
+      { 
+        "englishName": "Harry Potter and the Sorcerer's Stone",
+        "chineseName": "哈利波特: 神秘的魔法石",
+        "director": "Chris Columbus",
+        "description": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.",
+        "releasedYear": "2001",
+        "language": "English",
+        "country": [
+          "USA",
+          "UK"
+        ],
+        "publisher": "",
+        "awards": "",
+        "genre": "",
+        "tags": "",
+        "runTime": "",
+        "imdbRatings": "",
+        "metaScore": "",
+        "synopsis": ""
+      },
+      { 
+        "name": "Harry Potter and the Chamber of Secrets",
+        "chineseName": "哈利波特: 消失的密室",
+        "director": "Chris Columbus",
+        "releasedYear": "2002",
+        "language": "English",
+        "country": [
+          "UK",
+          "USA",
+          "Germany"
+        ]
+      },
+      {
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "chineseName": "哈利波特: 阿茲卡班的逃犯",
+        "director": "Alfonso Cuarón",
+        "releasedYear": "2004",
+        "language": "English",
+        "country": [
+          "UK",
+          "USA"
+        ]
+      }
+    ]
+}
